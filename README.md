@@ -6,5 +6,5 @@ The test involves:
 * plotting
 
 ## data availability
-[data.tar.bz2](https://s3.us-east-2.amazonaws.com/github-static-data/compbio_benchmark/data.tar.bz2)
+[data.tar.bz2](https://github.com/grst/compbio_benchmark/releases/download/v0.1/data.tar.bz2)
 
